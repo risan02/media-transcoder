@@ -1,0 +1,3 @@
+# 核心依赖（均为可选，工具会自动降级到系统 FFmpeg）
+# 推荐安装 imageio-ffmpeg，它会自带一个 ffmpeg 二进制，开箱即用
+imageio-ffmpeg>=0.4.9
